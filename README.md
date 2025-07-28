@@ -1,7 +1,7 @@
 ## Hi Techies! 👋
 
 ### Get to know me! 😄
-Hello! My name is Maya Patel and I'm a sophmore at Stevens Institute of Tech! I'm majoring in CS and minoring in Data Visualization. 📊
+Hello! My name is Maya Patel and I'm a junior at Stevens Institute of Tech! I'm majoring in CS and minoring in Data Visualization. 📊
 
 With my love for art, graphic visuals, web dev, and storytelling I found data and web development to go hand in hand. My projects span these interests and even overlap!
 Click around and if you want more details, shoot me an email! :) 📧
@@ -10,11 +10,11 @@ what you like, hope to pursue and how you got into it.
 -->
 
 ### Languages 🌐
+- Javascript / Typescript + React
 - Python
-- C++
 - Java
 - HTML/CSS 
-- React
+- C++
 
 ### Projects (and links) 👩‍💻
 - Cornell's AI Studio Project with Axle Informatics - Automated LLM Dashboarding Conversion Tool
